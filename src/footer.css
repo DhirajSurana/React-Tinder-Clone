@@ -1,0 +1,38 @@
+.swipeButtons{
+    position: fixed;
+    bottom: 8vh;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    background-color: #fff;
+}
+
+.icon{
+    box-shadow: 15px 13px 30px -9px rgba(0,0,0,0.3);
+    border-radius: 50%;
+}
+
+.replayIcon{
+    padding:1.5vw !important; 
+    color:#f5b748 !important;
+}
+
+.closeIcon{
+    padding: 1.5vw !important;
+    color:#ec5e6f !important;
+}
+
+.starRateIcon{
+    padding: 1.5vw !important;
+    color:#62b4f9 !important;
+}
+
+.favoriteIcon{
+    padding: 1.5vw !important;
+    color:#76e2b3 !important;
+}
+
+.flashOnIcon{
+    padding: 1.5vw !important;
+    color:#915dd1 !important;
+}

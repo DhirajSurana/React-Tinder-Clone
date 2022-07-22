@@ -1,0 +1,48 @@
+.header{
+    display: flex;
+    align-items: center; 
+    justify-content:space-evenly;
+    padding: 8px 16px;
+    z-index: 100; 
+}
+
+.headerIcon{
+    font-size: 3vw !important;
+}
+
+.header-logo{
+    display: flex;
+    justify-content: center;
+    width:80%;
+}
+
+.header-logo-left{
+    object-fit: contain;
+    width:3vw;
+    padding-right: 10px;
+}
+
+.header-logo-right{
+    object-fit: contain;
+    width:8vw;
+}
+
+.header-message{
+    font-size: 30px !important;
+}
+
+@media screen and (max-width:375px){
+    .header-logo-left{
+        width:7vw;
+    }
+    .header-logo-right{
+        width:13vw;
+    }
+    .headerIcon{
+        font-size: 8vw !important;
+    }
+
+    .header-message{
+        font-size: 100px !important;
+    }
+}
