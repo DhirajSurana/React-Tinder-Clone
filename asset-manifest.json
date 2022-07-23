@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Tinder-Clone/static/css/main.d5cbea0f.css",
-    "main.js": "/React-Tinder-Clone/static/js/main.fcb35772.js",
+    "main.css": "/React-Tinder-Clone/static/css/main.4532ddb9.css",
+    "main.js": "/React-Tinder-Clone/static/js/main.d0fac321.js",
     "static/js/787.64343069.chunk.js": "/React-Tinder-Clone/static/js/787.64343069.chunk.js",
     "index.html": "/React-Tinder-Clone/index.html",
-    "main.d5cbea0f.css.map": "/React-Tinder-Clone/static/css/main.d5cbea0f.css.map",
-    "main.fcb35772.js.map": "/React-Tinder-Clone/static/js/main.fcb35772.js.map",
+    "main.4532ddb9.css.map": "/React-Tinder-Clone/static/css/main.4532ddb9.css.map",
+    "main.d0fac321.js.map": "/React-Tinder-Clone/static/js/main.d0fac321.js.map",
     "787.64343069.chunk.js.map": "/React-Tinder-Clone/static/js/787.64343069.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5cbea0f.css",
-    "static/js/main.fcb35772.js"
+    "static/css/main.4532ddb9.css",
+    "static/js/main.d0fac321.js"
   ]
 }
